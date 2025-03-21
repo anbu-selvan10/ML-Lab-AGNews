@@ -9,3 +9,4 @@ This repository includes implementations of the following models:
 
 1. Multinomial Naive Bayes Classifier - `90% accuracy`
 2. BERT Transformer - `93% accuracy`
+3. CNN - `89% accuracy`
